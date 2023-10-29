@@ -1,0 +1,212 @@
+.main-section{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95vw;
+  margin: auto;
+  margin-top: 130px;
+}
+.left-main-section{
+  cursor: pointer;
+  width: 50vw;
+}
+.left-main-section-title{
+  color: #fff;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 50px;
+}
+.left-main-section-development-title{
+  color: #ff7200;
+}
+.left-main-section-information{
+  color: #fff;
+  font-size: 17px;
+  line-height: 27px;
+}
+.join-us-button{
+  color: black;
+  background-color: #ff7200;
+  border: none;
+  padding: 10px 40px 10px 40px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.join-us-button:hover{
+  background-color: white;
+}
+@media (max-width: 624px) {
+  .left-main-section{
+    width: 40vw;
+  }
+}
+@media (max-width: 612px) {
+  .main-section{
+    display: flex;
+    flex-direction: column;
+    row-gap: 60px;
+  }
+  .left-main-section{
+    margin-top: -60px;
+    width: 97vw;
+  }
+  .join-us-button{
+    margin-top: 8px;
+  }
+  .right-main-section{
+    position: relative;
+    top: -55px;
+    height: 49vh;
+    padding-top: 20px;
+    width: 200px;
+  }
+  .Login-Here-button{
+    font-size: 7px;
+    
+  }
+  .Enter-email,
+  .Enter-password{
+  width: 130px;
+}
+.Login-button{
+  font-size: 7px;
+  padding: 10px 85px 10px 85px;
+}
+.Not-having-account{
+  color: white;
+  margin: 8px 0px 0px 8px;
+}
+
+.Sign-up-information{
+  margin: 0px 0px 10px 50px;
+  color: white;
+}
+
+.right-main-section-image-section{
+  margin-top: 15px;
+}
+
+.Not-having-account{
+  margin-top: 10px;
+}
+.Log-in-with-app{
+  color: white;
+   position: relative;
+   left: 50px;
+}
+.right-main-section-image-section{
+  position: relative;
+  top: -10px;
+}
+.Facebook-image-icon{
+  height: 22px;
+  width: 22px;
+}
+.instagram-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 20px;
+}
+.twitter-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 20px;
+}
+.google-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 13px;
+}
+.skype-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 13px;
+}
+}
+@media (max-width: 499px) {
+  .left-main-section{
+    margin-top: -60px;
+    margin-left: -60px;
+    width: 80vw;
+  }
+  .left-main-section-information{
+    width: 95vw;
+  }
+  .join-us-button{
+    margin-top: 7px;
+  }
+  .right-main-section{
+    position: relative;
+    top: -100px;
+    left: 120px;
+    height: 49vh;
+    padding-top: 20px;
+    width: 200px;
+  }
+  .Login-Here-button{
+    font-size: 7px;
+    
+  }
+  .Enter-email,
+  .Enter-password{
+  width: 130px;
+}
+.Login-button{
+  font-size: 7px;
+  padding: 10px 85px 10px 85px;
+}
+.Not-having-account{
+  color: white;
+  margin: 8px 0px 0px 8px;
+}
+
+.Sign-up-information{
+  margin: 0px 0px 10px 50px;
+  color: white;
+}
+
+.right-main-section-image-section{
+  margin-top: 15px;
+}
+
+.Not-having-account{
+  margin-top: 10px;
+}
+.Log-in-with-app{
+  color: white;
+   position: relative;
+   left: 50px;
+}
+.right-main-section-image-section{
+  position: relative;
+  top: -10px;
+}
+.Facebook-image-icon{
+  height: 22px;
+  width: 22px;
+}
+.instagram-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 20px;
+}
+.twitter-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 20px;
+}
+.google-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 13px;
+}
+.skype-image-icon{
+  height: 22px;
+  width: 22px;
+  margin-left: 13px;
+}
+}
+
+
+
